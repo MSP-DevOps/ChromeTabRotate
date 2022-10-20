@@ -7,11 +7,11 @@
     "websites": [
       {
         "url": "https://app.datadoghq.com/dashboard/h4h-ahf-h52/devops-nebula-overview-v2?tv_mode=true&live=true",
-        "duration": 20
+        "duration": 60
       },
       {
         "url": "https://app.datadoghq.com/dashboard/4my-6is-6vr/logins-view?tv_mode=true&live=true",
-        "duration": 20
+        "duration": 60
       }
     ]
   }
