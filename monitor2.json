@@ -11,7 +11,7 @@
         "tabReloadIntervalSeconds": 0
       },
       {
-        "url": "https://app.datadoghq.com/screen/integration/98/aws-lambda?tv_mode=false&live=true",
+        "url": "https://app.datadoghq.com/dashboard/22c-inv-pry/payments?tv_mode=true&live=true",
         "duration": 60,
         "tabReloadIntervalSeconds": 0
       }
