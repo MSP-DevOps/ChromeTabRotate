@@ -1,0 +1,19 @@
+{
+    "settingsReloadIntervalMinutes": 1,
+    "fullscreen": true,
+    "autoStart": true,
+    "lazyLoadTabs": true,
+    "closeExistingTabs": true,
+    "websites": [
+      {
+        "url": "https://app.datadoghq.com/dashboard/n2g-45y-8gb/infrastructure?tv_mode=true&live=true",
+        "duration": 60,
+        "tabReloadIntervalSeconds": 0
+      },
+      {
+        "url": "https://app.datadoghq.com/screen/integration/98/aws-lambda?tv_mode=true&live=true",
+        "duration": 60,
+        "tabReloadIntervalSeconds": 0
+      }
+    ]
+  }
