@@ -8,12 +8,12 @@
       {
         "url": "https://app.datadoghq.com/dashboard/n2g-45y-8gb/infrastructure?tv_mode=true&live=true",
         "duration": 60,
-        "tabReloadIntervalSeconds": 0
+        "tabReloadIntervalSeconds": 7200
       },
       {
         "url": "https://app.datadoghq.com/dashboard/22c-inv-pry/payments?tv_mode=true&live=true",
         "duration": 60,
-        "tabReloadIntervalSeconds": 0
+        "tabReloadIntervalSeconds": 7200
       }
     ]
   }
