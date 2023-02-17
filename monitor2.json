@@ -19,6 +19,11 @@
         "url": "https://dash.embrace.io/app/PYweC/v/top_versions/dashboard/day/comparison/detail/wvNbevm",
         "duration": 60,
         "tabReloadIntervalSeconds": 7200
+      },
+      {
+        "url": "https://dashboard.unity3d.com/gaming/organizations/18966623382592/projects/79ed4d15-e4f1-42b2-ae76-bc1a261a4625/cloud-diagnostics/crashes-exceptions?tag=%21%3DClosed",
+        "duration": 60,
+        "tabReloadIntervalSeconds": 7200
       }
     ]
   }
