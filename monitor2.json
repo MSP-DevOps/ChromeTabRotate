@@ -24,6 +24,11 @@
         "url": "https://devopsmsp.loggly.com/search#terms=%22Nebula.Core.Payments%22&from=-14d&until=now&source_group=&filter=json.application.environment;BUILD_PRODUCTION",
         "duration": 60,
         "tabReloadIntervalSeconds": 7200
+      },
+      {
+        "url": "https://devopsmsp.loggly.com/search#terms=json.error.message:%22%5BPayments%5D%22&from=2023-02-24T14:58:52.109Z&until=2023-03-03T14:58:52.109Z&source_group=&filter=json.application.environment;BUILD_PRODUCTION",
+        "duration": 60,
+        "tabReloadIntervalSeconds": 7200
       }
     ]
   }
