@@ -7,17 +7,17 @@
     "websites": [
       {
         "url": "https://app.datadoghq.com/dashboard/22c-inv-pry/payments?tv_mode=true&live=true",
-        "duration": 60,
+        "duration": 40,
         "tabReloadIntervalSeconds": 7200
       },
       {
         "url": "https://dash.embrace.io/app/PYweC/v/top_versions/dashboard/day/comparison/detail/wvNbevm",
-        "duration": 60,
+        "duration": 40,
         "tabReloadIntervalSeconds": 7200
       },
       {
         "url": "https://dashboard.unity3d.com/gaming/organizations/18966623382592/projects/79ed4d15-e4f1-42b2-ae76-bc1a261a4625/cloud-diagnostics/crashes-exceptions?tag=%21%3DClosed",
-        "duration": 60,
+        "duration": 40,
         "tabReloadIntervalSeconds": 7200
       },
       {
@@ -26,7 +26,7 @@
         "tabReloadIntervalSeconds": 7200
       },
       {
-        "url": "https://devopsmsp.loggly.com/search#terms=json.error.message:%22%5BPayments%5D%22&from=2023-02-24T14:58:52.109Z&until=2023-03-03T14:58:52.109Z&source_group=&filter=json.application.environment;BUILD_PRODUCTION",
+        "url": "https://devopsmsp.loggly.com/search#terms=json.error.message:%22%5BPayments%5D%22%20json.application.environment:%22BUILD_PRODUCTION%22&from=2023-03-04T10:40:42.740Z&until=2023-03-06T10:40:42.740Z&source_group=",
         "duration": 60,
         "tabReloadIntervalSeconds": 7200
       }
