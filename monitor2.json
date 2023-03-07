@@ -26,7 +26,7 @@
         "tabReloadIntervalSeconds": 7200
       },
       {
-        "url": "https://devopsmsp.loggly.com/search#terms=json.error.message:%22%5BPayments%5D%22%20json.application.environment:%22BUILD_PRODUCTION%22&from=2023-03-04T10:40:42.740Z&until=2023-03-06T10:40:42.740Z&source_group=",
+        "url": "https://devopsmsp.loggly.com/search#terms=json.error.message:%22%5BPayments%5D%22%20json.application.environment:%22BUILD_PRODUCTION%22&from=-7d&until=now&source_group=",
         "duration": 60,
         "tabReloadIntervalSeconds": 7200
       }
