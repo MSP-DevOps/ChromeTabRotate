@@ -21,7 +21,7 @@
         "tabReloadIntervalSeconds": 7200
       },
       {
-        "url": "https://devopsmsp.loggly.com/search#terms=%22Nebula.Core.Payments%22&from=-14d&until=now&source_group=&filter=json.application.environment;BUILD_PRODUCTION",
+        "url": "https://devopsmsp.loggly.com/search#terms=%22Nebula.Core.Payments%22%20%20json.application.environment:%22BUILD_PRODUCTION%22&from=-5d&until=now&source_group=",
         "duration": 60,
         "tabReloadIntervalSeconds": 7200
       },
